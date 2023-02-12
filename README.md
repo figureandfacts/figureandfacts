@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @figureandfacts
+👋 Hi, I’m Sonal Kumari
+
 - 👀 I’m interested in Data Analytics, particulary interested in Data Wrangling and Data Visualization (Cleaning the data into more workable form and showing off into the form of different charts fascinates me)
 - 🌱 I’m currently learning Full Stack Data Science from AlmaBetter.
 - 💞️ I’m looking to collaborate on intresting Data Analytics related projects.
